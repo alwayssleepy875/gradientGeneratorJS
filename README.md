@@ -3,7 +3,7 @@ RU: Эта библиотека позволяет генерировать сл
 ENG: This library allows you to generate random color gradients that can be used in web applications. It is written in pure JavaScript and does not require any additional dependencies.
 
 ## Installation
-RU: Сохраните следующий код в файл `gradientGenerator.js`:
+RU: Сохраните следующий код в файл `gradientGenerator.js`: n\
 ENG: Save the following code in a file named `gradientGenerator.js`:
 
 ```javascript
