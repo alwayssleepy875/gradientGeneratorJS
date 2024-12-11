@@ -1,5 +1,5 @@
 # Random Color Gradient Generator Library in JavaScript/Библиотека для генерации случайных цветовых градиентов на JavaScript
-RU: Эта библиотека позволяет генерировать случайные цветовые градиенты, которые можно использовать в веб-приложениях. Она написана на чистом JavaScript и не требует дополнительных зависимостей.
+RU: Эта библиотека позволяет генерировать случайные цветовые градиенты, которые можно использовать в веб-приложениях. Она написана на чистом JavaScript и не требует дополнительных зависимостей. n\
 ENG: This library allows you to generate random color gradients that can be used in web applications. It is written in pure JavaScript and does not require any additional dependencies.
 
 ## Installation
