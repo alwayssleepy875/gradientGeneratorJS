@@ -31,3 +31,6 @@ ENG: Save the following code in a file named `gradientGenerator.js`:
     // Экспортируем класс для использования в других скриптах
     window.GradientGenerator = GradientGenerator;
 })();
+
+RU: Или же вы просто можете скачать файл `gradientGenerator.js` из этого репозитория и использовать его в своем проекте. n\
+ENG: Or you just can download a file named `gradientGenerator.js` from this repository and use this in your project.
