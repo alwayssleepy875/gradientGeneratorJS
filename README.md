@@ -63,7 +63,6 @@ class GradientGenerator {
 ```html
 <script src="gradientGenerator.js"></script>
 <script>
-    // Устанавливаем случайный градиент в качестве фона
     document.body.style.background = GradientGenerator.generateRandomGradient();
 </script>
 ```
@@ -73,7 +72,6 @@ class GradientGenerator {
 ```html
 <script src="gradientGenerator.js"></script>
 <script>
-    // Set a random gradient as the background
     document.body.style.background = GradientGenerator.generateRandomGradient();
 </script>
 ```
